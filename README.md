@@ -19,7 +19,8 @@ This project is a personalized AI chatbot built using a RAG (Retrieval-Augmented
 - **Vector Database**: ChromaDB
 - **Embeddings**: Hugging Face (all-MiniLM-L6-v2)
 
-## How to Run
+##this is for any person who wants to create his/her own AI clone just like this project you can follow the steps
+## How to Run               
 
 1.  **Clone the repository:**
     ```bash
